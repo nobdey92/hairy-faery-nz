@@ -1,4 +1,4 @@
-# The Start of hairy-faery-nz Website
+# The Start of Hairy-Faery-nz Website
 
 ## Made by Jordan Hobdey for Ry South
 
